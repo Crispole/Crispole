@@ -8,3 +8,10 @@
 Crispole/Crispole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Mi CV: https://crispole.github.io/Desafio-6/
+
+Trabajos forkeados:
+- https://github.com/Crispole/curriculum_rosario
+- https://github.com/Crispole/alstuardo.github.io
