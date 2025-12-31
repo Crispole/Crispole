@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crispole, Cristián Pozo Labbé, profesor de música y estudiante de Fullstack en Desafio Latam
+- 👋 Hi, I’m @Crispole, Cristián Pozo Labbé, profesor de música y Desarrollador Web
 - 👀 I’m interested in, music, programming, sports
 - 🌱 I’m currently learning how to use github correctly :P
 - 💞️ I’m looking to collaborate on every project so I can learn as much as possible
